@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "Bsc-am-M3h"; */
+"Bsc-am-M3h.text" = "Hello_arabic";
+
+/* Class = "UIButton"; normalTitle = "Switch Language"; ObjectID = "giw-gc-UyG"; */
+"giw-gc-UyG.normalTitle" = "Switch Language_arabic";
+
+/* Class = "UIButton"; normalTitle = "Next Controller"; ObjectID = "zvV-RQ-mMj"; */
+"zvV-RQ-mMj.normalTitle" = "Next Controller_arabic";
